@@ -1,0 +1,6 @@
+framework module Pods_CarFit {
+  umbrella header "Pods-CarFit-umbrella.h"
+
+  export *
+  module * { export * }
+}

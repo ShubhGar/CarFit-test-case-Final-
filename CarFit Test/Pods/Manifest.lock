@@ -1,0 +1,16 @@
+PODS:
+  - AppSpectorSDK (1.3.3)
+
+DEPENDENCIES:
+  - AppSpectorSDK
+
+SPEC REPOS:
+  trunk:
+    - AppSpectorSDK
+
+SPEC CHECKSUMS:
+  AppSpectorSDK: 456297902af29f93aca55c093d9af9f3c6af3c17
+
+PODFILE CHECKSUM: ac36e42caab1a2f9f1e9f096c599546d48d4b980
+
+COCOAPODS: 1.8.4
